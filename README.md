@@ -2,15 +2,15 @@
 
 ## 26-06-2020: Node.js and Express Framework!
 
-<li>Created server, routing and html templating.</li>
+<li>Created server, routing and html templating.</li><br>
 
-Created Responses and Requests, event loops, modules.
+<li>Created Responses and Requests, event loops, modules.</li><br>
 
-Started using Express and installed Postman.
+<li>Started using Express and installed Postman.</li><br>
 
-Used HTTP methods and CRUD operations(get,post,patch,delete).
+<li>Used HTTP methods and CRUD operations(get,post,patch,delete).</li><br>
 
-Learned and used Middlewares and ESLint.
+<li>Learned and used Middlewares and ESLint.</li><br>
 
 -------------------------------------------------------------------------------------
 
