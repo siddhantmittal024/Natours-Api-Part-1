@@ -21,7 +21,7 @@
 <li>Created my document and made the requests for reading,finding,updating and deleting data.</li><br>
 <li>How to import data from other files into our database(process.argv)!</li><br>
 <li>Made my API better by using Mongoose Features like filter, sorting, limiting, pagination and aliasing.</li><br>
-<li>Learned aggregate properties which includes match, group, unwind and project to make our API more BUSINESS friendly.</li><br>
+<li>Learned aggregate properties which includes match, group, unwind and project to make our API more BUSINESS   friendly.</li><br>
 <li>Virtual Properties and Types of Middlewares in Mongoose.</li><br>
 <li>Data Validators inbuilt and custom.</li><br>
 
