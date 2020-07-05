@@ -2,7 +2,7 @@
 
 ## 26-06-2020: Node.js and Express Framework!
 
-Created server, routing and html templating.
+<li>Created server, routing and html templating.</li>
 
 Created Responses and Requests, event loops, modules.
 
